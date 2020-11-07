@@ -1,0 +1,28 @@
+# write commands to install modules/lib and run your project, one in each line.
+# node and npm commands are available along with other basic linux commands.
+# command to run
+#node index.js
+
+
+#### 07/11/20 #######
+
+#usando o npm install ejs, 
+  #como ficou o package. json:
+  # "ejs": "^3.1.5",
+# instalando nodemon 
+  #npm install -g nodemon
+ 
+#### connection with github #####
+#git init
+git config --global user.email "ueredeveloper@gmail.com"
+git config --global user.name "ueredeveloper"
+#create .gitignore
+git add . 
+git commit -m "first commit"
+git branch -M main
+#git remote add origin https://github.com/ueredeveloper/varargs.git
+#changed git config [remote "origin"]
+#git push -u origin main
+
+#https://github.com/ueredeveloper/
+  #tutorial-node-patrick-isidoro.git
